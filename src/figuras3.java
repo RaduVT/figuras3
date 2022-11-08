@@ -1,5 +1,5 @@
 public class figuras3 {
     public static void main(String[] args) {
-        System.out.println("holaholaholaholaholaholaholaholaholaholaholaholahola");
+        System.out.println("1+2");
     }
 }
